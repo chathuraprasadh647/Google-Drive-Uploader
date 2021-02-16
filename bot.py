@@ -26,8 +26,8 @@ gauth = GoogleAuth()
 
 ######################################################################################
 
-bot_token = Creds.TG_TOKEN
-updater = Updater(token=bot_token,  workers = 8 , use_context=True)
+bot_token = Creds.1683865947:AAEF5FypqddWNd6k8CL2vqPn7ldWY-hpEM8
+updater = Updater(token=1683865947:AAEF5FypqddWNd6k8CL2vqPn7ldWY-hpEM8,  workers = 8 , use_context=True)
 dp = updater.dispatcher                                                          #
 #
 
